@@ -1,4 +1,4 @@
-const { expect, assert } = require('chai');
+  const { expect, assert } = require('chai');
 const { testOptional, checkForNotThrowingErrors, CONSTANTS } = require('../extensions/index.js');
 const { createDreamTeam } = require('../src/dream-team.js');
 
